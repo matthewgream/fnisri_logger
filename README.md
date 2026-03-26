@@ -146,11 +146,6 @@ ESP-ROM:esp32c3-api1-20210207
 
 ...
 
-D (98) nvs: nvs_get_str_or_blob a/config
-I (98) app_main: conditions: temp=30.9°C
-20260326132723.549: timestamp=1774531643.539 sample_in_packet=3 voltage_V=5.03180 current_A=0.02356 dp_V=2.770 dn_V=0.378 temp_C_ema=28.100 energy_Ws=14.273578 capacity_As=2.842900
-
-
 Child exited with status 0
 Total energy:   14.321070 Ws
 Total capacity: 2.852338 As
