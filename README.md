@@ -20,6 +20,7 @@ For example, with lightweight instrumentation:
 ```
 And the following output from the below execution (esp32-boot just restarts the device via USB and executes idf monitor):
 
+![powermon.png](powermon-20260326132624.png)
 
 ```
 root@workshop:/opt/sensor-depth-snow/embedded# fnirsi_logger --verbose --save=powermon/powermon --events=POWER --plot --exec tools/esp32-boot
